@@ -1,0 +1,137 @@
+.Background{
+	position: relative;
+	width: 1400px;
+	height: 300px;
+	border: 2px;
+	background-image: url("./images/maharashtra.jpg");
+
+}
+.bk_round{
+	position: relative;
+	left: 30px;
+	top: 40px;
+	width: 280px;
+	height: 300px;
+	border: 2px;
+	background-image: url("./images/mumbai.jpg");
+	display: inline-block;
+	transition-duration: 0.4s;
+}
+.sub_menu_ul {
+  position: relative;
+  left: 490px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+.sub_menu {
+    float: left;
+}
+
+.sub_menu a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.sub_menu a:hover {
+    background-color: #5697ff;
+}
+
+button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.70), 0 17px 50px 0 rgba(0,0,0,0.60);
+}
+
+.bk_round h2{
+	position: relative;
+	top: 110px;
+	font-weight: bold;
+    color: white; 
+}
+nav {
+  max-width: 960px;
+  position:absolute;
+    top:10px;
+    left: 200px;
+    z-index:1;
+  mask-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #ffffff 25%, #ffffff 75%, rgba(255, 255, 255, 0) 100%);
+  margin: 0 auto;
+  padding: 1px;
+  width:100%;
+}
+
+.title{
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    color: white;
+    font-family: "Comic Sans MS";
+      font-size: 2.5vw;
+      font-weight: bold;
+      text-decoration: none;
+      display: block;
+}
+
+nav h1{
+	position: relative;
+    top: 1px;
+    left: 350px;
+    color: white;
+    font-family: "Comic Sans MS";
+      font-size: 3vw;
+      font-weight: bold;
+      text-decoration: none;
+      display: block;
+}
+nav ul {
+  text-align: center;
+  position:absolute;
+    top:90px;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+  width: 100%;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  padding: 18px;
+  font-family: "Comic Sans MS";
+  color: white;
+  font-size: 2.2vw;
+  font-weight: bold;
+  text-decoration: none;
+  display: block;
+}
+
+nav ul li a:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(0, 35, 122, 0.7);
+}
+
+.sub_heading{
+	position: relative;
+	top: 30px;
+	left: 500px;
+	font-weight: bold;
+	font-size: 2.5vw;
+	font-family: "Comic Sans MS";
+	color: #0D1E8D;
+}
+.para{
+	position: relative;
+	top: 30px;
+	
+	font-size: 1.5vw;
+	font-family: "Comic Sans MS";
+	text-align: center;
+}
+
+

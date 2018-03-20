@@ -1,0 +1,394 @@
+[{
+    "name" : "Matheran",
+    "famous for" : "Hills and waterfall",
+    "district" : "Raigad",
+    "history": "Matheran was discovered in May 1850 by Hugh Poyntz Malet, collector for the Thane district, while he was climbing the path known as Shivaji’s Ladder. Thereafter, the then Governor General of Bombay, Lord Elphinstone gave further guidelines to develop this region into a full-fledged hill-resort where British officers can come and beat the summer heat and refresh themselves.The nearest to this place is another beautiful town called Neeral, which lies at the base of Matheran’s hills. In 1907, Sir Adamjee Peerbhoy built the heritage railway service called Matheran Hill Railway or Matheran Light Railway. The train runs for approximately 21 km and connects towns like Neeral to Matheran and covers large swathes of forests in the Western Ghats. In fact, UNESCO considered endowing the railway with a World Heritage Site in 2009, but sadly things could not materialise then.",
+    "description" : "With a distance of approx 83 km from Mumbai, this is a perfect getaway for nature lovers. The name Matheran means either ‘Forest on Top’ or ‘Woodland overhead’. There are around 38 lookout points in this smallest hill station of India. Matheran, which means 'forest on the forehead' (of the mountains) is an eco-sensitive region, declared by the Ministry of Environment, Forest and Climate Change, Government of India.One can also find a great variety of medicinal herbs & plants. There are about 28 points, 2 lakes, 2 parks & 4 major worship places in Matheran.",
+    "preferred mode of transport" : "Train",
+    "nearest station" : "Neral",
+    "Tips" : ["Get enough cash as there aren't many ATMs in Matheran", "Monkeys in Matheran are quite mischevious so avoid carrying eatables in hand and feeding the monkeys.", "No cars are allowed so most of the travel will be on foot or on horses", "Avoid carrying too much luggage and get best pair of shoes"],
+    "How to reach": "You can travel through train from Mumbai to Neral. Only few trains like Deccan Express and Koyna Express stops at Neral. If you don't get into Neral trains, you can always take trains to Karjat and backtrack on frequent local trains to Neral. The total journey time is approximately 1 hours. The train fare ranges from 50 INR to 300 INR. From Neral a small Toy Train takes you through a zigzag route of about 21 kms. to Matheran(Memorial hall) in two hours time. The toy train can only be booked in advance from Mumbai or Pune which is a good idea in the high season (tickets go on sale 45 minutes before departure). The journey from Neral to AMtheran is really pleasent. Various stations like Jumma Patti, Water Pipe and Aman Lodge are on the way to Matheran. If you are planning to travel by personal mode of transport then you have to park your vehicale at Dasturi gate which is 11 km from Matheran.",
+    "preferred local transport" : ["Horses and hand pulled rickshaws are popular mode of commution in Matheran. Horse rides are charged 100 INR per hour to lope around the view points.", "Trekkers delight: Energetic trek is from Neral to Dasturi gate. The distance from Neral to Dasturi gate is 8 km. It is a blissful walk where streams cut through farms. You won't find good network in that area, so it trekkers have to take help from the local people there for directions. You can rest and enjoy a snack midway at Janmapatti rail station where the road and track meet. There are a few eateries run by localities. Second leg of the trek is difficult than the first as the path gets steeper. Following the road should get you to Dasturi gate after which one has to take the unpaved trail till Matheran Bazaar. All trails in Matheran are well marked and getting around shouldn't be difficult. From Dasturi gate to Memorial hall, you can either trek or choose Horse Ride or Rickshaw. If you are a beginner, you can opt the route from village Dudhoni. You will find ample signboards there."],
+    "attractions" : [{
+        "name":"Louisa Point(Lion's head)",
+        "known for": "One of the best attractions in Matheran. It is located slightly in the interiors(approx 2.5 to 3 km from the market), but it is worth the walk/ride. Lakes and echo point are near to this point. The valley between Louisa Point and Honeymoon Point also attracts the tourist.",
+        "facilities" : ["food stalls", "accomodation", "washrooms"],
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Porcupine Point(Sunset Point)",
+        "known for": "You can experience beautiful sunset from this point. It is 6 km from the marketplace, but horses and cars are avaialable for commution. Close to the point is Prabalgad fort which can be seen from here.",
+        "facilities" : ["food stalls", "accomodation", "washrooms"],
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Charlotte Lake",
+        "known for": "Beautiful place for clicking pictures. It is good for sitting on the shores and relaxing. Since, this lake provides drinking water to Matheran, so no activities are permitted. It is 2 km away from the railway station. Must visit Pisharath temple right next to the lake where the shiv lingam is in L shape.",
+        "facilities" : null,
+        "average time": "min 30 mins",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Panorama Point",
+        "known for": "A beautiful place during monsoons. You will have to walk almost 3 km to reach the destination as there are no cars or horses are available. It's route is narrow and surrounded by thick forest. You can see entire Matheran after reaching the point.",
+        "facilities" : null,
+        "average time": "min 1 hour",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Alexander Point",
+        "known for": "It is on the Madhavji Road which is just about 3 km. from Market area.From here one can see Garbut Point, Towers of Bhivpuri Power House, Karjat Palasdari Lake, BorgaonVillage, Rambaug Point and Chowk Point. The view of the sunrise from this point is mesmerising and is a favourite among locals.",
+        "facilities" : null,
+        "average time": "min 30 mins",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Rambagh Fort",
+        "known for": "Like Alexander Point, Rambaugh point is famous for sunrise. It is on the way of Alexander Point with a little adivasi village situated on the route.",
+        "facilities" : ["food stalls", "accomodation", "washrooms"],
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    }, {
+        "name":"One Tree Point",
+        "known for": "As the name suggests it has one tree on the top of the hill. One has to climb to reach the destination. It is not advisable to climb without ropes or harness. It is 5 km from the Market Place.",
+        "facilities" : null,
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Lord Point",
+        "known for": "Situated near Charlotte lake. Rich in lush greenery,particularly in monsoon.",
+        "facilities" : null,
+        "average time": "min 30 mins",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    }],
+    "delicacy":[{
+        "name" : "Chiki",
+        "description" : "Made up of nuts, sesame seeds and jaggery these sweet snacks are definately something you will fall in love with in your first bite. Lot of local shops and street shops sell different flavours of Chikis. So make sure you are carrying a good stock of these nutty delights"
+    },{
+        "name" : "Puran Poli",
+        "description" : "Made from chana dal, gram flour, jaggery or sugar and nutmeg powder this Maharashtraian flatbread is a popular desert. You musn't go home without trying this"
+    },{
+        "name" : "Bharli Vangi",
+
+        "description" : "Made up of baby brinjals are stuffed with a coconut, sesame and peanut mixture, and then fried a bit, followed by dropping them in a thick, spicy curry. This is what Alu Posto is to Bengal or as Mirchi ka Saalan is to Andhra Pradesh."
+    },{
+        "name" : "Solkhadi",
+
+        "description" : "Made up from coconut milk and kokam this is a great refreshment during summers. Used both as an appetiser and a digestive, it can be had by itself or mixed with steamed rice."
+    }],
+    "important contact numbers" : ["Police Station: +91-2148-230300", "B J Hospital Matheran: +91-2148-230530"],
+    "shops": [{
+        "name" : "Garden View Restaurant",
+        "location" : "MG road",
+        "known for" : "Thalis"
+    },{
+        "name" : "Shabbir's Biryani house",
+        "location" : "2 min walk from Juma Masjid",
+        "known for" : "Mutton Biryani and Mughlai"
+    },{
+        "name" : "Regal or Gujarat Bhavan",
+        "location" : "MA Road, near market",
+        "known for" : "Gujarati thali, Maharashtraian thali"
+    },{
+        "name" : "Dune Bar House",
+        "location" : "Charlotte lake road",
+        "known for" : "Colonial-style hotel"
+    }],
+    "must buy":["Chikis", "Kolhapuri sandals", "leather goods like belts and bags", "Honey", "dried wild flowers"]
+},
+{
+    "name" : "Bhandardara",
+    "famous for" : "Trekking",
+    "district" : "Ahmednagar",
+    "history": "Located on the banks of River Pravara, Bhandardara is a hill station nestled in the Sahyadri mountain range in Maharashtra. According to a legend, sage Agastya meditated here for a year. Pleased with his penance, gods blessed him with a stream of River Ganga, now known as River Pravara.",
+    "description" : "With a distance of approx 185 km km from Mumbai, this is a perfect getaway for peace lovers. Bhandardara is home to Mount Kalsubai, the highest peak (5,400 ft or 1,600 m) in Maharashtra. Another tourist attraction is the Wilson Dam on the Pravara River, which was built in 1910. The Umbrella Falls also draw visitors, although it can be seen only during the monsoons between July and October..",
+    "preferred mode of transport" : "By Road or Train",
+    "nearest station" : "Igatpuri",
+    "Tips" : ["Roads are narrow so be aware and avoid travelling post sunset unless you are familiar to the road.", "Less petrol pumps around.", "Road conditions are not that great.", "The climate in winters is below 10` so carrying woollen blankets is recommended.", "Most shops don't accept plastic currency so carry adequate cash possible as the nearest ATM is 20km away."],
+    "How to reach": "You can either travel by road or train.On your way, you will encounter multiple places where the mountains are kissing the clouds with waterfall and cool breeze. State highway 44 (SH# 44) goes through this town. If you are coming from national highway 3 (NH# 3), you have to take right turn after passing the Ghoti toll post. The distance from Ghoti to Bhandardara is around 30 km and the road has mild curves and bends. If you planning to travel by train the nearest railway station is Igatpuri which is 45 km from Bhandardara. Igatpuri is situated on Mumbai-Nashik rail route. From Igatpuri, you can take state transport bus (commonly known as ST bus) service or private taxi to reach Bhandardara. You can also take train to Kasara from Kurla or Ghatkopar and then from Kasara hire a jeep which stands right outside the station to Bhandardara.",
+    "preferred local transport" : ["Moving is not too convinent here unless you have a car. You can easily arrange for a car from the hotel you are staying in and will take you to all the tourist places around."],
+    "attractions" : [{
+        "name":"Wilson Dam",
+        "known for": "This enormous dam that dates back to 1910, is surrounded by thick forests and water bodies. Built on the banks of Pravara river, this dam is situated at the height of 150m above the sea level. It is a favourite picnic spot for families and couples. Monsoon is the time when the water level rises and the town is blessed with rich green views.",
+        "famous for" : "Camping/Trekking",
+        "facilities" : ["washrooms"],
+        "average time": "min 1 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Arthur Lakes",
+        "known for": "This lake is a reservoir for Wilson Dam. Situated in the backwaters of the dam, this place is a well known camping spot and is surrounded by hills and forests. Boating is a famous activity here.",
+        "facilities" : ["food stalls", "boating(200 Rs for an hour)", "washrooms"],
+        "average time": "min 1 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Umbrella Falls",
+        "known for": "Originating from the water of the Wilson dam and cascading on a natural placed rock, the arrangment looks like Umbrella. Hence, the name came into existence.",
+        "facilities" : null,
+        "average time": "min 30 mins",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Randha Falls",
+        "known for": "Cascading at the height of 170m, this is beautiful sight that you can look forward to.",
+        "facilities" : null,
+        "average time": "min 1 hour",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Ratangad Fort",
+        "known for": "Perched on the Kalsubai peak, this fort is 200 years old and was captured by Shivaji Maharaj. It offers bird eye view and has a natural peak called 'eye of the needle'. There are four gates in the fort and one has to climb ladders to reach the fort.",
+        "facilities" : ["food stalls", "trekking", "washrooms"],
+        "average time": "min 2 mins",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Amruteshwar Temple",
+        "known for": "Dedicated to Lord Shiva, this temple is built 1200 yeras ago out of a stone by Shilaahar family. Surrounded by hills, this temple stands still making us marvel at it's wonderous architecture.",
+        "facilities" : ["food stalls", "trekking", "washrooms"],
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Kalsubai peak",
+        "known for": "Also known as the Everest of Maharashtra, this highest peak(1646 m) is a must visit site if you are looking for beautiful trek and a breathtaking view. If you come here, you should definately go to Kalsubai temple. The shrine is devoted to the deity os the same name. She was a maid, who escaped her tormentor and settled here. Later, she disappeared but the local people built a temple on her name to pay here respects. Annually, there is a fair organized where the tourists and local people gather to pay her respects. ",
+        "facilities" : ["food stalls", "trekking", "washrooms"],
+        "average time": "min 3 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Agastya Rishi Ashram",
+        "known for": "This ashram is located 24km away from the city center. This is the place where Agastya rishi meditated and where Ram and Lakshman came to seek for his blessings before going to Lanka to defeat Raavan. Here the well known rishi offered them the arrow that they used to kill Raavan.",
+        "facilities" : null,
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    }],
+    "important contact numbers" : ["Police Station: +91-2148-230300"],
+    "shops": [{
+        "name" : "Panch Sheel",
+        "location" : "near MTDC holiday resort",
+        "known for" : "Indian, Chinese"
+    },{
+        "name" : "Coffee Dam Corner ",
+        "location" : "near ST bus stop",
+        "known for" : "Chai, bhajia, pakodas"
+    },{
+        "name" : "Lake View",
+        "location" : "MTDC hotel",
+        "known for" : "Indian, Chinese"
+    },{
+        "name" : "Hotel Kaka",
+        "location" : "near ST bus stop",
+        "known for" : "Indian, Chinese"
+    }] 
+}, 
+{
+    "name" : "Alibag", 
+    "famous for" :  "Beach and forts", 
+    "district" : "Raigad",
+    "history": "Alibag, the headquarters of the Raigad district is a coastal town. Raigad's first name was 'Kulaba'. It was developed in the 17th century by Sarkhel Kanhoji Aangre the naval chief of King Shivaji's Kingdom.A naval battle was fought at Varsoli between Kanhoji Aangre and Siddi of Janjira in 1706. In 1722 English and Portuguese jointly attacked on Kulaba fort, and they lost this war. At Chaul there was a battle between the English and Sakhoji in 1730. Sakhoji won and brought down the losing party along with their captain at Kulaba. Kanhoji even issued his own currency in the form of a silver coin called the Alibagi rupaiya.It is from years that the Alibag Region and Raigad district is headed and ruled by the Bhartiya Shetkari Kamgar Paksha (Peasants and Workers Party of India).",
+    "description" : "With a distance of approx 120 km from Mumbai, this is a perfect getaway for beach lovers. It is a town on the Konkan coast of Maharashtra near Mumbai. It's best known for its historic marine forts, fine beaches and clean water.",
+    "preferred mode of transport" : "Boat and Bus",
+    "nearest jetty" : "Mandwa",
+    "Tips" : ["Avoid taking ferry services in monsoons."],
+    "How to reach": "One can easily get the ferry from Gateway of India to Rehwas. From Rehwas they can take the bus to Alibag. The total fare of the bus is included in the ferry price. You can either book MSRTC buses that leave from Mumbai every 30 mins or book a private bus. If you are planning to travel by car, you can take the Mumbai-Goa-Ernakulam National Highway (NH17). At Wadkhal 'naka'(crossing), which is a little 8 km ahead of Pen, continue straight (the left turn keeps you on the highway to Goa), and you are now on the road to Alibag. Alibag is about 22 km from that point.",
+    "preferred local transport" : ["There are autos(shared/individual) and buses avaialablefor hoping from one place to another."],
+    "attractions" : [{
+        "name":"Louisa Point(Lion's head)", 
+        "known for": "One of the best attractions in Matheran. It is located slightly in the interiors(approx 2.5 to 3 km from the market), but it is worth the walk/ride. Lakes and echo point are near to this point. The valley between Louisa Point and Honeymoon Point also attracts the tourist.", 
+        "facilities" : ["food stalls", "accomodation", "washrooms"],
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Porcupine Point(Sunset Point)", 
+        "known for": "You can experience beautiful sunset from this point. It is 6 km from the marketplace, but horses and cars are avaialable for commution. Close to the point is Prabalgad fort which can be seen from here.", 
+        "facilities" : ["food stalls", "accomodation", "washrooms"],
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Charlotte Lake", 
+        "known for": "Beautiful place for clicking pictures. It is good for sitting on the shores and relaxing. Since, this lake provides drinking water to Matheran, so no activities are permitted. It is 2 km away from the railway station. Must visit Pisharath temple right next to the lake where the shiv lingam is in L shape.", 
+        "facilities" : null,
+        "average time": "min 30 mins",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Panorama Point", 
+        "known for": "A beautiful place during monsoons. You will have to walk almost 3 km to reach the destination as there are no cars or horses are available. It's route is narrow and surrounded by thick forest. You can see entire Matheran after reaching the point.", 
+        "facilities" : null,
+        "average time": "min 1 hour",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Alexander Point", 
+        "known for": "It is on the Madhavji Road which is just about 3 km. from Market area.From here one can see Garbut Point, Towers of Bhivpuri Power House, Karjat Palasdari Lake, BorgaonVillage, Rambaug Point and Chowk Point. The view of the sunrise from this point is mesmerising and is a favourite among locals.", 
+        "facilities" : null,
+        "average time": "min 30 mins",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Rambagh Fort", 
+        "known for": "Like Alexander Point, Rambaugh point is famous for sunrise. It is on the way of Alexander Point with a little adivasi village situated on the route.", 
+        "facilities" : ["food stalls", "accomodation", "washrooms"],
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"One Tree Point", 
+        "known for": "As the name suggests it has one tree on the top of the hill. One has to climb to reach the destination. It is not advisable to climb without ropes or harness. It is 5 km from the Market Place.", 
+        "facilities" : null,
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    },{
+        "name":"Lord Point", 
+        "known for": "Situated near Charlotte lake. Rich in lush greenery,particularly in monsoon.", 
+        "facilities" : null,
+        "average time": "min 30 mins",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    }],
+    "delicacy":[{
+        "name" : "Chiki",
+        "description" : "Made up of nuts, sesame seeds and jaggery these sweet snacks are definately something you will fall in love with in your first bite. Lot of local shops and street shops sell different flavours of Chikis. So make sure you are carrying a good stock of these nutty delights"
+    }, {
+        "name" : "Puran Poli",
+        "description" : "Made from chana dal, gram flour, jaggery or sugar and nutmeg powder this Maharashtraian flatbread is a popular desert. You musn't go home without trying this"
+    }, {
+        "name" : "Bharli Vangi",
+        "description" : "Made up of baby brinjals are stuffed with a coconut, sesame and peanut mixture, and then fried a bit, followed by dropping them in a thick, spicy curry. This is what Alu Posto is to Bengal or as Mirchi ka Saalan is to Andhra Pradesh."
+    }, {
+        "name" : "Solkhadi",
+        "description" : "Made up from coconut milk and kokam this is a great refreshment during summers. Used both as an appetiser and a digestive, it can be had by itself or mixed with steamed rice."
+    }],
+    "important contact numbers" : ["Police Station: +91-2148-230300", "B J Hospital Matheran: +91-2148-230530"],
+    "shops": [{
+        "name" : "Garden View Restaurant", 
+        "location" : "MG road", 
+        "known for" : "Thalis"
+    },{
+        "name" : "Shabbir's Biryani house", 
+        "location" : "2 min walk from Juma Masjid", 
+        "known for" : "Mutton Biryani and Mughlai"
+    },{
+        "name" : "Regal or Gujarat Bhavan", 
+        "location" : "MA Road, near market", 
+        "known for" : "Gujarati thali, Maharashtraian thali"
+    },{
+        "name" : "Dune Bar House", 
+        "location" : "Charlotte lake road", 
+        "known for" : "Colonial-style hotel"
+    }], 
+    "must buy":["Chikis", "Kolhapuri sandals", "leather goods like belts and bags", "Honey", "dried wild flowers"]
+},
+{
+    "name" : "Mumbai",
+    "famous for" : "Metropolitian City",
+    "district" : "Mumbai",
+    "history": "The name Mumbai is an eponym, derived from Mumba or Maha Amba, name of the goddess. The history of this beautiful city dates back to formation of seven islands - Colaba, Mazagaon, Mahim, Parel, Bombay Island, Worli and Old Woman's Island and were a part of Ashoka's kingdom. After his death, these parts were assed to different rulers. A series of refurbishments and battles later, the city was officially deemed as the capital of the state of Maharashtra. ",
+    "description" : "Bollywood is the heart of Mumbai(previously known as Bombay). There are several attrations here that will leave you awe struck. A walk around Churchgate will give you a touch of colonial era. Unlike, the notion that there aren't many places to see in Mumbai, this dream city is every traveller's delight.",
+    "preferred mode of transport" : "Train",
+    "nearest station" : "Mumbai",
+    "Tips" : ["Mumbai being a coastal city, the climate is always humid.", "Avoid taking local trains during peak hours.", "Insist on meter rides while using taxi or autos"],
+    "How to reach": "You get direct trains to Mumbai from any part of the country.",
+    "preferred local transport" : ["Mumbai is well connected by local trains. It has two lines that provide services to the suburban traffic from eastern and western suburbs. The bus service of Mumbai is also supposed to be the best in India. It is run by Bombay Electric Supply and Transport Company (BEST), whose network is so vast that it links literally every nook and corner of the city. The red double-decker buses are comfortable, cheap and safe. Besides that there are taxis and autos for commuting for short distances."],
+    "attractions" : [{
+        "name":"Gateway of India",
+        "known for": "Gateway of India is a great historical monument built during the British rule in the country. It was built as a triumphal arch to commemorate the visit of King George V and Queen Mary to Mumbai (then, Bombay). Gateway of India was built at Apollo Bunder, a popular meeting place. It was designed by the British architect, George Wittet. It faces the vast Arabian Sea, crowned by Marine Drive, a road running parallel to the sea. The majestic monument is a must-visit at night. It is a very significant figure in the lives of the people of Mumbai, as the Gateway defines the grandeur of the city that is a culmination of both, historic and modern cultural environment.",
+        "facilities" : ["food stalls", "accomodation", "washrooms"],
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "Full day"
+    },{
+        "name":"The Asiatic Society",
+        "known for": "The Asiatic Society, one historical building is a library that houses at least hundred books and 15,000 books out of them have been classified as valuable and rare. Apart from the many books it also has many artifacts and manuscripts in Persian, Prakrit and also Sanskrit that are all ancient. They have approximately 3000 of such manuscripts. For art lovers, this place is nothing less than paradise. Some of these manuscripts have been written on paper, while there are also some that have been written on a leaf.",
+        "facilities" : ["washrooms"],
+        "average time": "min 2 hours",
+        "allowed" : null,
+        "timings" : "5:00 AM - 7:00 PM"
+    },{
+        "name":"Bandra-Worli Sea Link",
+        "known for": "This sea link has added a feather to the charm of this city. Originally called as Rajiv Gandhi Seal Link, this bridge has been built beautifully over the Arabian Sea and it was started in 2000 that got completed in 2010. This bridge connects suburbs of Bandra to the Worli and it is one of the most beautiful infrastructures of Mumbai",
+        "facilities" : null,
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "Full day"
+    },{
+        "name":"Marine Drive",
+        "known for": "Popular for being an island city, Marine drive is a long stretch that has been made by the Arabian Sea and it stretches up to 3.5 km. It is also called as the Queen’s Necklace and it is called so, because of the long stretch that lights up at night and looks similar to a pearl necklace. The whole promenade is flanked beautifully with palm trees. ",
+        "facilities" : ["food stalls", "accomodation", "washrooms"],
+        "average time": "min 1 hour",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "Full day"
+    },{
+        "name":"Haji Ali",
+        "known for": "Situated in Worli, the Haji Ali Dargah is located in the middle of an island and that’s one of the many reasons that make this place so attractive. Haji Ali is another very important landmark of Mumbai and it is said that this dargah was built in 1431 and it is the mausoleum of Pir Haji Ali Shah who was a Sufi saint. ",
+        "facilities" : ["food stalls", "accomodation", "washrooms"],
+        "average time": "min 1 hour",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "Full day"
+    },{
+        "name":"Shree Siddhivinayak Temple",
+        "known for": "Built in dedication to Ganesha who is one of the most revered Gods of Hindu religions. Ganesha is the son of Shiva and Parvati and is respected and worshipped before the beginning of anything auspicious. This temple is highly significant and thousands of devotees visit Siddhivinayak each day. The Siddhivinayak temple is said to be 200 years old and it was built in 1801.",
+        "facilities" : ["food stalls", "accomodation", "washrooms"],
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 6:00 PM"
+    }, {
+        "name":"The Taj Mahal Palace Hotel",
+        "known for": "One of the oldest and the best luxury hotels in Mumbai, the Taj Mahal hotel is sight worth watching. The beautiful architecture, striking landscapes and the view that is spectacular, the Taj Mahal Palace Hotel is another tourist attraction of the city. For those who are planning to visit Mumbai for a short vacation, you can opt to stay here for a luxurious and pampered experience.",
+        "facilities" : ["food stalls", "accomodation", "washrooms"],
+        "average time": "min 2 hours",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "Full day"
+    },{
+        "name":"Mount Mary Church",
+        "known for": "This church is highly significant not just for Christians but also for people who belong to different faiths and religions. The Mount Mary Festival called as the Bandra Fair is very popular and people from all over flock to the church. ",
+        "facilities" : ["food stalls", "accomodation", "washrooms"],
+        "average time": "min 1 hour",
+        "allowed" : ["Camera", "Video", "Footwear"],
+        "timings" : "5:00 AM - 10:00 PM"
+    }],
+    "delicacy":[{
+        "name" : "Batata vada or Vada Pav",
+        "description" : "Whether it's for breakfast, teatime, or anytime, one thing is for sure, Mumbaikars can't live without the batata vada bite. This well-liked fast food dumpling is made by mashing boiled potatoes with green chilies, ginger, garlic, lime juice, turmeric, and fresh coriander, which is then dipped in a besan (gram flour) batter and deep fried. It's served either with a green chutney or fried green chillies."
+    },{
+        "name" : "The Bombay sandwich",
+        "description" : "This street-side invention is a combination of the most unlikely ingredients. Lavishly buttered white bread and sandwiched in between thin slices of beetroot, boiled potatoes, cucumbers, tomatoes, onion rings, and mint chutney. Cut into four triangles so that you can handle all the layers without spilling them, you get the most refreshing tangy taste, after each bite. A toasted version steams up the vegetables inside and adds another dimension. Truly, there is no other sandwich quite like it in the world."
+    },{
+        "name" : "Bhel puri",
+
+        "description" : "The most commonly sold 'chaat' (snack) on the streets of Mumbai, every bhel walla will have his own matchless blend and a considerable 7pm fan following. While the ingredients -- puffed rice, papadi (small crisp deep fried flour puris), sev, onions, potatoes, raw mango and sweet and sour chutney -- remain the same, it is the proportions in which they are thrown together on the street side that makes the difference."
+    },{
+        "name" : "Falooda",
+        "description" : "This adaptation of a Persian dessert was brought to India by the Mughals. A rich drink, Falooda is vermicelli mixed with milk, almonds, pistachios, a bit of rose syrup and the key ingredient -- sabza or basil seeds -- topped up with two scoops of ice cream. Refreshing, rosy, energizing, it's a great pick-me-up on a hot day."
+    }],
+    "important contact numbers" : ["Police Station: +91-22-24939352", "J J Hospital: +91-22 2373 5555"],
+    "shops": [{
+        "name" : "Kheema Pav at Gulshan -e-Iran, Crawford Market",
+        "location" : "Crawford Market",
+        "known for" : "Kheema Pav, Chicken tikka masala, Garlic naan, Firni, Rabdi Kulfi"
+    },{
+        "name" : "Imbiss",
+        "location" : "Bandra West",
+        "known for" : "Goan Sausage Pulao, Weiner Schnitzel, Smoked Pork With Fat And Rind, Beef Burger, Bavarian Ham And Cheese Sandwich, Milanesa Nepolitana, Baby Back Spare Ribs"
+    },{
+        "name" : "Joey’s pizza",
+        "location" : "Malad West",
+        "known for" : "Italian thali"
+    },{
+        "name" : "Pav Bhaji and Masala Pav at Sardar",
+        "location" : "AC Market Tardeo",
+        "known for" : "Pav Bhaji"
+    }],
+    "must buy":["Shopping spots famous - Bandra Hill road, Bandra Linking road, Colaba Causeway, Churchgate fashion street "]
+}]    

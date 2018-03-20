@@ -1,0 +1,102 @@
+	"Maharashtra":{
+		"city": "Mumbai", 
+		"capital" : "Maharashtra", 
+		"visit": ["November to February", "June to October"], 
+		"in_city":{
+			"activity" : "Hiking",
+			"places" : [
+				"place1":{
+					"name" : "Matheran", 
+					"famous for" :  "Hills and waterfall", 
+					"district" : "Raigad",
+					"description" : "With a distance of approx 83 km from Mumbai, this is a perfect getaway for nature lovers. The name Matheran means either ‘Forest on Top’ or ‘Woodland overhead’. There are around 38 lookout points in this smallest hill station of India. Matheran, which means "forest on the forehead" (of the mountains) is an eco-sensitive region, declared by the Ministry of Environment, Forest and Climate Change, Government of India.One can also find a great variety of medicinal herbs & plants. There are about 28 points, 2 lakes, 2 parks & 4 major worship places in Matheran.",
+					"preferred mode of transport" : "Train",
+					"nearest station" : "Neral",
+					"Tips" : ["Get enough cash as there aren't many ATMs in Matheran", "Monkeys in Matheran are quite mischevious so avoid carrying eatables in hand and feeding the monkeys."]
+					"How to reach": "You can travel through train from Mumbai to Neral. Only few trains like Deccan Express and Koyna Express stops at Neral. If you don't get into Neral trains, you can always take trains to Karjat and backtrack on frequent local trains to Neral. The total journey time is approximately 1 hours. The train fare ranges from 50 INR to 300 INR. From Neral a small Toy Train takes you through a zigzag route of about 21 kms. to Matheran(Memorial hall) in two hours time. The toy train can only be booked in advance from Mumbai or Pune which is a good idea in the high season (tickets go on sale 45 minutes before departure). The journey from Neral to Matheran is really pleasent. Various stations like Jumma Patti, Water Pipe and Aman Lodge are on the way to Matheran. ",
+					"preferred local transport" : ["Horses and hand pulled rickshaws are popular mode of commution in Matheran. Horse rides are charged 100 INR per hour to lope around the view points.", "Trekkers delight: Energetic trek is from Neral to Dasturi gate. The distance from Neral to Dasturi gate is 8 km. It is a blissful walk where streams cut through farms. You won't find good network in that area, so it trekkers have to take help from the local people there for directions. You can rest and enjoy a snack midway at Janmapatti rail station where the road and track meet. There are a few eateries run by localities. Second leg of the trek is difficult than the first as the path gets steeper. Following the road should get you to Dasturi gate after which one has to take the unpaved trail till Matheran Bazaar. All trails in Matheran are well marked and getting around shouldn't be difficult. From Dasturi gate to Memorial hall, you can either trek or choose Horse Ride or Rickshaw."],
+					"attractions" : [
+						"visit1": {
+							"name":"Louisa Point(Lion's head)", 
+							"img" : "https://www.google.co.in/search?q=Louisa+Point&rlz=1C1GCEA_enIN785IN785&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjytqDMudfZAhUKpY8KHQ71C_4QsAQINw&biw=1366&bih=662#imgrc=gFn-Fv1gre8vwM:",
+							"known for": "One of the best attractions in Matheran. It is located slightly in the interiors(approx 2.5 to 3 km from the market), but it is worth the walk/ride. Lakes and echo point are near to this point. The valley between Louisa Point and Honeymoon Point also attracts the tourist.", 
+							"facilities" : ["food stalls", "accomodation", "washrooms"],
+							"average time": "min 2 hours",
+							"allowed" : ["Camera", "Video", "Footwear"],
+							"timings" : "5:00 AM - 6:00 PM"
+						},
+						"visit2": {
+							"name":"Porcupine Point(Sunset Point)", 
+							"img" : "https://www.google.co.in/search?q=porcupine+point&rlz=1C1GCEA_enIN785IN785&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi9iOW6vdfZAhXJLI8KHe_ODxEQsAQIOA&biw=1366&bih=662#imgrc=WnuRS6VLH0xwNM:",
+							"known for": "You can experience beautiful sunset from this point. It is 6 km from the marketplace, but horses and cars are avaialable for commution. Close to the point is Prabalgad fort which can be seen from here.", 
+							"facilities" : ["food stalls", "accomodation", "washrooms"],
+							"average time": "min 2 hours",
+							"allowed" : ["Camera", "Video", "Footwear"],
+							"timings" : "5:00 AM - 6:00 PM"
+						},
+						"visit3": {
+							"name":"Charlotte Lake", 
+							//"img" : "https://www.google.co.in/search?q=porcupine+point&rlz=1C1GCEA_enIN785IN785&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi9iOW6vdfZAhXJLI8KHe_ODxEQsAQIOA&biw=1366&bih=662#imgrc=WnuRS6VLH0xwNM:",
+							"known for": "Beautiful place for clicking pictures. It is good for sitting on the shores and relaxing. Since, this lake provides drinking water to Matheran, so no activities are permitted. It is 2 km away from the railway station.", 
+							"facilities" : null,
+							"average time": "min 30 mins",
+							"allowed" : ["Camera", "Video", "Footwear"],
+							"timings" : "5:00 AM - 6:00 PM"
+						},
+						"visit4": {
+							"name":"Panorama Point", 
+							//"img" : "https://www.google.co.in/search?q=porcupine+point&rlz=1C1GCEA_enIN785IN785&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi9iOW6vdfZAhXJLI8KHe_ODxEQsAQIOA&biw=1366&bih=662#imgrc=WnuRS6VLH0xwNM:",
+							"known for": "A beautiful place during monsoons. You will have to walk almost 3 km to reach the destination as there are no cars or horses are available. It's route is narrow and surrounded by thick forest. You can see entire Matheran after reaching the point.", 
+							"facilities" : null,
+							"average time": "min 1 hour",
+							"allowed" : ["Camera", "Video", "Footwear"],
+							"timings" : "5:00 AM - 6:00 PM"
+						},
+						"visit5": {
+							"name":"Alexander Point", 
+							//"img" : "https://www.google.co.in/search?q=porcupine+point&rlz=1C1GCEA_enIN785IN785&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi9iOW6vdfZAhXJLI8KHe_ODxEQsAQIOA&biw=1366&bih=662#imgrc=WnuRS6VLH0xwNM:",
+							"known for": "It is on the Madhavji Road which is just about 3 km. from Market area.From here one can see Garbut Point, Towers of Bhivpuri Power House, Karjat Palasdari Lake, BorgaonVillage, Rambaug Point and Chowk Point. The view of the sunrise from this point is mesmerising and is a favourite among locals.", 
+							"facilities" : null,
+							"average time": "min 30 mins",
+							"allowed" : ["Camera", "Video", "Footwear"],
+							"timings" : "5:00 AM - 6:00 PM"
+						},
+						"visit6": {
+							"name":"Rambagh Fort", 
+							//"img" : "https://www.google.co.in/search?q=Louisa+Point&rlz=1C1GCEA_enIN785IN785&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjytqDMudfZAhUKpY8KHQ71C_4QsAQINw&biw=1366&bih=662#imgrc=gFn-Fv1gre8vwM:",
+							"known for": "Like Alexander Point, Rambaugh point is famous for sunrise. It is on the way of Alexander Point with a little adivasi village situated on the route.", 
+							"facilities" : ["food stalls", "accomodation", "washrooms"],
+							"average time": "min 2 hours",
+							"allowed" : ["Camera", "Video", "Footwear"],
+							"timings" : "5:00 AM - 6:00 PM"
+						},
+						"visit7": {
+							"name":"One Tree Point", 
+							//"img" : "https://www.google.co.in/search?q=porcupine+point&rlz=1C1GCEA_enIN785IN785&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi9iOW6vdfZAhXJLI8KHe_ODxEQsAQIOA&biw=1366&bih=662#imgrc=WnuRS6VLH0xwNM:",
+							"known for": "As the name suggests it has one tree on the top of the hill. One has to climb to reach the destination. It is not advisable to climb without ropes or harness. It is 5 km from the Market Place.", 
+							"facilities" : null,
+							"average time": "min 2 hours",
+							"allowed" : ["Camera", "Video", "Footwear"],
+							"timings" : "5:00 AM - 6:00 PM"
+						},
+						"visit8": {
+							"name":"Lord Point", 
+							//"img" : "https://www.google.co.in/search?q=porcupine+point&rlz=1C1GCEA_enIN785IN785&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi9iOW6vdfZAhXJLI8KHe_ODxEQsAQIOA&biw=1366&bih=662#imgrc=WnuRS6VLH0xwNM:",
+							"known for": "Situated near Charlotte lake. Rich in lush greenery,particularly in monsoon.", 
+							"facilities" : null,
+							"average time": "min 30 mins",
+							"allowed" : ["Camera", "Video", "Footwear"],
+							"timings" : "5:00 AM - 6:00 PM"
+						}
+					],
+				}, 
+			]
+		}
+		"winter":{
+			"place_id" : "ChIJrVwNOsfR5zsRPHOcIKclCsc",
+			"name" : "Gateway Of India Mumbai", 
+			"rating" : 4.6,
+			
+		}
+	}
+}
